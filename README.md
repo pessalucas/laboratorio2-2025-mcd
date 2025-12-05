@@ -1,7 +1,7 @@
 Entrega final TP LAB2. 
 
-Pessagno Lucas. pessagnolucas@gmail.com
-Stucke Joaquin. joacostucke@gmail.com
+Pessagno Lucas. pessagnolucas@gmail.com // 
+Stucke Joaquin. joacostucke@gmail.com // 
 Pagoto Christian. christianpagoto@gmail.com
 
 Estructura: 
