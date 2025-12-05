@@ -5,7 +5,7 @@ Stucke Joaquin. joacostucke@gmail.com //
 Pagoto Christian. christianpagoto@gmail.com
 
 Estructura: 
-  dcda-2025-image.ipynb
+  dcda-2025-image.ipynb // 
   dcda-2025-texto.ipynb 
   -> Generan inputs para: dcda-2025-main.ipynb
 
